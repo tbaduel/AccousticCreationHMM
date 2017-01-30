@@ -1,0 +1,17 @@
+
+
+
+AFFICHE		[AFFICHE]	a ff i ch 
+ALLUME		[ALLUME]	a lu m
+ETEINT		[ETEINT]	eh t ein 
+
+HEURE		[HEURE]		eu r
+LA			[LA]		la
+LAMPE		[LAMPE]		l am p 
+LUMIERE		[LUMIERE]	lu m i ai r 
+
+
+
+
+METEO		[METEO]	m eh t eh o
+
