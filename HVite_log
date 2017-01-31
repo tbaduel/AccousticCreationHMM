@@ -16,3 +16,64 @@ HTK Configuration Parameters[10]
 Read 19 physical / 19 logical HMMs
 Processing data directly from the input filesLabel file will be used to align each file
 Aligning File: ./sample/mfcc/sample1.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END ALLUME LA LUMIERE SENT-END  ==  [425 frames] -45.9041 [Ac=-19509.2 LM=0.0] (Act=6.1)
+Aligning File: ./sample/mfcc/sample2.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END ETEINT LA LUMIERE SENT-END  ==  [429 frames] -47.3772 [Ac=-20324.8 LM=0.0] (Act=6.3)
+Aligning File: ./sample/mfcc/sample3.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END LUMIERE ETEINT LA SENT-END  ==  [536 frames] -45.4308 [Ac=-24350.9 LM=0.0] (Act=5.6)
+Aligning File: ./sample/mfcc/sample4.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END ALLUME LA LAMPE SENT-END  ==  [351 frames] -50.1742 [Ac=-17611.1 LM=0.0] (Act=6.2)
+Aligning File: ./sample/mfcc/sample5.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END ALLUME LAMPE LA SENT-END  ==  [386 frames] -53.9252 [Ac=-20815.1 LM=0.0] (Act=5.3)
+Aligning File: ./sample/mfcc/sample6.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END AFFICHE LA METEO SENT-END  ==  [446 frames] -48.4437 [Ac=-21605.9 LM=0.0] (Act=5.5)
+Aligning File: ./sample/mfcc/sample7.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END AFFICHE LA HEURE SENT-END  ==  [421 frames] -46.3770 [Ac=-19524.7 LM=0.0] (Act=4.7)
+Aligning File: ./sample/mfcc/sample8.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END METEO AFFICHE LA SENT-END  ==  [432 frames] -48.4498 [Ac=-20930.3 LM=0.0] (Act=5.0)
+Aligning File: ./sample/mfcc/sample9.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END AFFICHE LA LUMIERE SENT-END  ==  [436 frames] -47.8836 [Ac=-20877.2 LM=0.0] (Act=5.5)
+Aligning File: ./sample/mfcc/sample10.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END ETEINT LA METEO SENT-END  ==  [396 frames] -47.4514 [Ac=-18790.8 LM=0.0] (Act=5.0)
+Aligning File: ./sample/mfcc/sample11.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END LAMPE ETEINT LA SENT-END  ==  [394 frames] -45.1680 [Ac=-17796.2 LM=0.0] (Act=5.5)
+Aligning File: ./sample/mfcc/sample12.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END HEURE ALLUME LA SENT-END  ==  [401 frames] -47.9240 [Ac=-19217.5 LM=0.0] (Act=5.4)
+Aligning File: ./sample/mfcc/sample13.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END METEO ALLUME LA SENT-END  ==  [371 frames] -50.9736 [Ac=-18911.2 LM=0.0] (Act=6.1)
+Aligning File: ./sample/mfcc/sample14.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END ALLUME AFFICHE ETEINT SENT-END  ==  [441 frames] -49.3800 [Ac=-21776.6 LM=0.0] (Act=5.7)
+Aligning File: ./sample/mfcc/sample15.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END METEO HEURE ETEINT SENT-END  ==  [426 frames] -46.0901 [Ac=-19634.4 LM=0.0] (Act=4.4)
+Aligning File: ./sample/mfcc/sample16.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END LA LUMIERE HEURE SENT-END  ==  [449 frames] -53.2501 [Ac=-23909.3 LM=0.0] (Act=4.8)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+

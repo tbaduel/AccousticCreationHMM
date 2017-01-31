@@ -1,0 +1,20 @@
+CL triphones1
+TI T_a {(*-a+*,a+*,*-a).transP}
+TI T_ff {(*-ff+*,ff+*,*-ff).transP}
+TI T_i {(*-i+*,i+*,*-i).transP}
+TI T_ch {(*-ch+*,ch+*,*-ch).transP}
+TI T_sp {(*-sp+*,sp+*,*-sp).transP}
+TI T_lu {(*-lu+*,lu+*,*-lu).transP}
+TI T_m {(*-m+*,m+*,*-m).transP}
+TI T_eh {(*-eh+*,eh+*,*-eh).transP}
+TI T_t {(*-t+*,t+*,*-t).transP}
+TI T_ein {(*-ein+*,ein+*,*-ein).transP}
+TI T_eu {(*-eu+*,eu+*,*-eu).transP}
+TI T_r {(*-r+*,r+*,*-r).transP}
+TI T_la {(*-la+*,la+*,*-la).transP}
+TI T_l {(*-l+*,l+*,*-l).transP}
+TI T_am {(*-am+*,am+*,*-am).transP}
+TI T_p {(*-p+*,p+*,*-p).transP}
+TI T_ai {(*-ai+*,ai+*,*-ai).transP}
+TI T_o {(*-o+*,o+*,*-o).transP}
+TI T_sil {(*-sil+*,sil+*,*-sil).transP}
